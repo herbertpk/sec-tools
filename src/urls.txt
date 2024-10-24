@@ -1,0 +1,4 @@
+google.com
+192.168.0.2
+bancocn.com
+192.168.0.1
